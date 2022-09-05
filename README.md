@@ -34,6 +34,8 @@
 `localhost:5000/add-movie/`
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/78966839/188428176-742db76f-88a3-4168-bad9-194d871a3af2.png">
 
+# Video
+https://user-images.githubusercontent.com/78966839/188484901-8c54390d-bb19-4477-8562-6bdb4a8e2ec5.mp4
 
-
+### [Video compressor](https://www.veed.io/tools/video-compressor)
 
